@@ -1,0 +1,23 @@
+body {
+    background: grey;
+}
+
+.viewer {
+    height: 500px;
+    width: 900px;
+    margin: auto;
+    display: flex;
+    background: white;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#bob {
+    height: 500px;
+}
+
+.arrow {
+    padding: 20px;
+    margin-top: 220px;
+
+}
